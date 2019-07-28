@@ -1,3 +1,4 @@
+// ATG:: FUNCTION FOR IMAGE HOVER EFFECT ON MOUSEOVER
 function imageHover(num){
 	var images = {
 		man: {
@@ -41,6 +42,7 @@ function imageHover(num){
 	descriptionElement.innerHTML = description;
 }
 
+// ATG:: FUNCTION FOR MOUSEOUT TO CHANGE IMAGE BACK TO NORMAL
 function imageNoHover(num){
 	const backgroundElements = document.getElementsByClassName('image-hover');
 	const headingElement = document.getElementById(`heading${num}`);
@@ -51,6 +53,7 @@ function imageNoHover(num){
 	descriptionElement.innerHTML = '';
 }
 
+// ATG:: FUNCTION TO OPEN/CLOSE COLLAPSED MENU FOR TABLET/MOBILE
 function ToggleCollapsedMenu(){
 	const toggle = document.getElementById('links');
 
