@@ -1,3 +1,3 @@
-<?php include_once("index.html"); ?>
+<?php include_once("/index.html"); ?>
 
 <!-- ATG:: THIS FILE IS TO TRICK HEROKU INTO THINKING THIS IS A PHP APP SO IT CAN BE DEPLOYED WITH THE PHP WEBPACK -->
