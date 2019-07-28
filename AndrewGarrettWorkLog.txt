@@ -4,7 +4,11 @@
 03:15pm - 4:15pm - Finished main content section.
 
 7/27
-1.5 hrs - Image hover effect.
+1.5 hrs - Worked on JavaScript for image hover effect.
 
 7/28
-1.5 hrs - Mobile and tablet responsiveness.
+1.5 hrs - Added media queries for mobile and tablet responsiveness.
+
+
+git remote add origin https://github.com/l1ngoman/LeaseLabsCodingTest.git
+git push -u origin master
